@@ -1,2 +1,2 @@
 # Python
-Placeholder for random Python things.
+random Python things
