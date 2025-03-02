@@ -1,2 +1,2 @@
 # Python
-random Python things
+Random Python things
